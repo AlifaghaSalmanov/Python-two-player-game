@@ -1,0 +1,2 @@
+
+                # bullet.location.pop(i)
